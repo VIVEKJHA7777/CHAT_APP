@@ -7,7 +7,7 @@ This project is a real-time chat application built using Node.js for managing us
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/VIVEKJHA7777/airtribe.git
+    git clone https://github.com/VIVEKJHA7777/CHAT_APP
     ```
 3. Install dependencies:
 
