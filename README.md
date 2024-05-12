@@ -231,27 +231,27 @@ specified by the userToChatId parameter. It retrieves the conversation from the 
 
 * api/auth/signup
 
-![Screenshots1](./Screenshots/Signup.png)
+![Screenshots1](./screenshots/Signup.png)
 
 * api/auth/login
 
-![Screenshots1](./Screenshots/login.png)
+![Screenshots1](./screenshots/login.png)
 
 * api/auth/logout
 
-![Screenshots1](./Screenshots/logout.png)
+![Screenshots1](./screenshots/logout.png)
 
 * api/messages/send/:receiver_id
 
-![Screenshots1](./Screenshots/send_message.png)
+![Screenshots1](./screenshots/send_message.png)
 
 * api/messages/:userToChatId
 
-![Screenshots1](./Screenshots/Get_Message.png)
+![Screenshots1](./screenshots/Get_Message.png)
 
 * /api/users
 
-![Screenshots1](./Screenshots/Get_logged_user.png)
+![Screenshots1](./screenshots/Get_logged_user.png)
 
 
 
